@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>OctopusDeploymentScratch.AspNet</id>
+    <title>Octopus Deployment Scratch ASP.NET</title>
+    <version>$version$</version>
+    <authors>Octopus</authors>
+    <owners>Octopus</owners>
+    <licenseUrl>http://yourcompany.com</licenseUrl>
+    <projectUrl>http://yourcompany.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A sample project</description>
+  </metadata>
+</package>
